@@ -1,0 +1,7 @@
+*.iml
+.idea
+output.png
+out
+mandelbrot-set
+trace.out
+vendor
